@@ -1,4 +1,4 @@
-Password Generator GUI
+#Password Generator GUI
 A simple, interactive Python GUI application for generating strong, random passwords based on user-specified criteria. Built with Tkinter for an elegant purple and blue-themed interface.
 
 Features
